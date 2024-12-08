@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": "deno --allow-read src/main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.9"
+  }
+}
